@@ -3,4 +3,4 @@
 FROM $ogmwordwide.jfrog.io/$docker-quickstart-virtual/ubuntu:16.04
 #Option 2: for Self-Hosted subscription. Remove the above cloud command and use the below command
 #FROM ${Artifactory_URL:Artifactory_PORT}/${VIRTUAL_REPO_NAME}/ubuntu:16.04
-CMD printf "CONGRATULATIONS!!! You have just set up your first Docker repository with the new JFrog Platform!"
+# CMD printf "CONGRATULATIONS!!! You have just set up your first Docker repository with the new JFrog Platform!"
